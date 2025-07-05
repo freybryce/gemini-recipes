@@ -7,3 +7,4 @@ Recipes uploaded from Gemini
 * [Warm-Asian Lupini Grain & Greens Bowl](asian-lupini-bowl.html)
 * [Lupini Beans](lupini-beans.html)
 * [Lemon Dill Yogurt Dip](lemon-dill-yogurt-dip.html)
+* [Polenta Puttanesca](polenta-puttanesca.html)
