@@ -8,3 +8,4 @@ Recipes uploaded from Gemini
 * [Lupini Beans](lupini-beans.html)
 * [Lemon Dill Yogurt Dip](lemon-dill-yogurt-dip.html)
 * [Polenta Puttanesca](polenta-puttanesca.html)
+* [Roasted Beet & Persimmon Salad with Goat Cheese](Roasted_Beet_&_Persimmon_Salad_with_Goat_Cheese.html)
