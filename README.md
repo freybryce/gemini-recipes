@@ -12,3 +12,4 @@ Recipes uploaded from Gemini
 * [Melted Brie & Apple Sandwich](melted-brie-apple-sandwich.html)
 * [Classic Egg Salad Sandwich](classic-egg-salad-sandwich.html)
 * [French Onion Melt](french-onion-melt.html)
+* [Bitter & Peppery Greens Salad](bitter-peppery-greens-salad.html)
