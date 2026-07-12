@@ -11,3 +11,4 @@ Recipes uploaded from Gemini
 * [Roasted Beet & Persimmon Salad with Goat Cheese](Roasted_Beet_&_Persimmon_Salad_with_Goat_Cheese.html)
 * [Melted Brie & Apple Sandwich](melted-brie-apple-sandwich.html)
 * [Classic Egg Salad Sandwich](classic-egg-salad-sandwich.html)
+* [French Onion Melt](french-onion-melt.html)
