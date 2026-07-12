@@ -9,3 +9,4 @@ Recipes uploaded from Gemini
 * [Lemon Dill Yogurt Dip](lemon-dill-yogurt-dip.html)
 * [Polenta Puttanesca](polenta-puttanesca.html)
 * [Roasted Beet & Persimmon Salad with Goat Cheese](Roasted_Beet_&_Persimmon_Salad_with_Goat_Cheese.html)
+* [Melted Brie & Apple Sandwich](melted-brie-apple-sandwich.html)
